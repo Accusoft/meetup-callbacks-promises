@@ -1,0 +1,16 @@
+{
+  "name": "callbacks-and-promises",
+  "version": "1.0.0",
+  "description": "Sample code from Tampa Node Meetup",
+  "main": "samples/hello-world.js",
+  "scripts": {
+    "start": "node samples/hello-world.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamison Prianos",
+  "license": "MIT",
+  "dependencies": {
+    "lazy-promise": "^3.0.1",
+    "uuid": "^2.0.3"
+  }
+}
